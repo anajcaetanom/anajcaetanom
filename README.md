@@ -26,7 +26,7 @@ Information Systems student at IFES
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Currently studying
+### 🖥️ Currently studying
 ![P4](https://img.shields.io/badge/P4-0098FF?style=for-the-badge&logo=ethereum&logoColor=white)
 
 <p align="center">
