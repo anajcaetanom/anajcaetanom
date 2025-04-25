@@ -29,6 +29,8 @@ Information Systems student at IFES
 ### 🖥️ Currently studying
 ![P4](https://img.shields.io/badge/P4-0098FF?style=for-the-badge&logo=ethereum&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <p align="center">
   <img src="https://64.media.tumblr.com/52782d8fcdca040b9146bb4563e9e844/5733d5813bdd8269-cd/s1280x1920/4e5f9b5f42244010e2eb58539f74330acfa7ad3d.gifv" alt="email_me.gif" width="90"/>
